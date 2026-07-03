@@ -9,7 +9,7 @@ I am a Senior student at **EECS, Peking University**, finishing my undergraduate
 # Research Interests
 My research mainly targets coherent video generation and diffusion model optimization:
 * **Video Colorization & Temporal Consistency:** Optical flow guided diffusion frameworks to eliminate frame flicker for grayscale video recoloring.
-* **Image & Video Quality Assessment:** Subjective and objective evaluation for colored video sequences.
+* **Image & Video Quality Assessment:** Subjective and objective evaluation for compressed images.
 
 # Education
 * **B.S. in Informatics and Computation Science**, School of Electrical Engineering and Computer Science (EECS), Peking University, 2022 - Present, Peking University, 2022 - Present

@@ -6,20 +6,25 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
 {% include base_path %}
+
 Education
 ======
-* B.S. in Engineering, School of Electrical Engineering and Computer Science (EECS), Peking University, 2022 - Present
-Research Experience
+* **B.S. in Informatics and Computation Science**, School of Electrical Engineering and Computer Science (EECS), Peking University, 2022 - Present
+
+Work experience
 ======
-* Research Intern (2024.07 - Present)
+* **Research Intern** (2024.06 - Present)
   * Wangxuan Institute of Computer Technology, Peking University
-  * Focus: Temporally consistent video colorization, optical flow-guided diffusion models, video generation optimization
-  * Supervisor: Prof. Jiaying Liu.
+  * Focus: Diffusion models, Image Quality Assessment, Generative Compression
+  * Supervisor: Prof. Jiaying Liu, Prof. Chuanmin Jia.
+
 Skills
 ======
-* Research Areas: Computer Vision, Video Colorization, Temporal Consistency Optimization, Optical Flow, Diffusion Models
-* Art & Practice: A cappella vocal performance, vocal arrangement and team management
+* **Research Areas:** Computer Vision, Video Colorization, Temporal Consistency Optimization, Diffusion Models, Image Quality Assessment
+* **Arts:** A cappella performance and group direction
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
