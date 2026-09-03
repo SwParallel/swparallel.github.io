@@ -22,8 +22,8 @@ Work experience
 
 Skills
 ======
-* **Research Areas:** Computer Vision, Video Colorization, Temporal Consistency Optimization, Diffusion Models, Image Quality Assessment
-* **Arts:** A cappella performance and group direction
+* **Research Areas:** Computer Vision, Video Colorization, Generative Compression, Image Quality Assessment
+* **Arts:** A cappella performance and group direction (Paca vocal group)
 
 Publications
 ======
